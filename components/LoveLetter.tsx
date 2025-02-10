@@ -45,15 +45,15 @@ const NextButton = styled.button`
 
 const loveLetter = `My dearest,
 
-From our first moonlit walk to this very moment, every second with you has been magical. Your love illuminates my world like the moon brightens the night sky. I cherish every memory we've created together and look forward to a lifetime of adventures under the stars.
+From our first moonlit walk till now, every sec with u has been pure magic. ✨ Your love lights up my world like the moon in the night sky. 🌙 I cherish every moment we’ve shared & can’t wait for a lifetime of adventures under the stars. 💫
 
-With each passing day, my love for you grows stronger. You are my guiding star, my constant source of inspiration and joy. Together, we've weathered storms and basked in the warm glow of countless moons. Our journey has been nothing short of extraordinary, and I can't wait to see what the future holds for us.
+With each day, my love for u just keeps growing. ❤️ U are my guiding star, my inspiration, my happiness. We’ve been through storms & enjoyed countless beautiful nights together. Our journey is nothing less than amazing, & I can’t wait for what’s next.
 
-As we continue our journey together, I promise to love you more with each passing day. Your smile is my sunshine, your laughter my favorite melody. In your arms, I've found my home, and in your heart, I've found my purpose.
+I promise to love u more every day. 💖 Your smile is my sunshine, your laughter my fav melody. 🎶 In ur arms, I’ve found my home, & in ur heart, I’ve found my purpose.
 
-May our love story be as eternal as the stars above, always shining bright, guiding us through life's adventures. Thank you for being my partner, my best friend, and my soulmate.
+May our love be forever, shining bright like the stars above. 🌟 Thank u for being my love, my best friend, my everything.
 
-I love you more than all the stars in the universe.
+I love u more than all the stars in the universe. 💕✨
 
 Forever yours,
 Your Love`
